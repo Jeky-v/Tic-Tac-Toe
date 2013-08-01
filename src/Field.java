@@ -23,12 +23,12 @@ public class Field
         System.out.print("  ");
         for(int i = 0; i < fieldSize; i++)
         {
-            System.out.print("|" + i);
+            System.out.print(" " + i);
         }
-        System.out.println("|");
+        System.out.println("");
         for(int i = 0; i < fieldSize; i++)
         {
-            System.out.print("|" + i + "|");
+            System.out.print(i + " |");
             for(int j = 0; j < fieldSize; j++)
             {
                 System.out.print(field[i][j] + "|");

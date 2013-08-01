@@ -2,35 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4084102-0d0d-46bb-bf33-2513359c6167" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\Tic Tac Toe.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\out\production\Tic Tac Toe\ComputerPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\out\production\Tic Tac Toe\Field.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\out\production\Tic Tac Toe\Game.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\out\production\Tic Tac Toe\HumanPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\out\production\Tic Tac Toe\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\out\production\Tic Tac Toe\Player.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\src\ComputerPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\src\Field.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\src\Game.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\src\HumanPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\src\Main.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JEKY\Desktop\Tic Tac Toe\src\Player.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputerPlayer.java" afterPath="$PROJECT_DIR$/src/ComputerPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Field.java" afterPath="$PROJECT_DIR$/src/Field.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Game.java" afterPath="$PROJECT_DIR$/src/Game.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HumanPlayer.java" afterPath="$PROJECT_DIR$/src/HumanPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Tic Tac Toe.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Field.java" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375376731174" ignored="false" />
+    <file path="/Field.java" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375379379794" ignored="false" />
     <file path="/fragment.java" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375376525563" ignored="false" />
-    <file path="/Dummy.txt" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375377382815" ignored="false" />
+    <file path="/Dummy.txt" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375378682532" ignored="false" />
+    <file path="/Game.java" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375379424249" ignored="false" />
+    <file path="/ComputerPlayer.java" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375380193184" ignored="false" />
+    <file path="/HumanPlayer.java" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375379597317" ignored="false" />
+    <file path="/Main.java" changelist="d4084102-0d0d-46bb-bf33-2513359c6167" time="1375380208382" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +77,88 @@
     <favorites_list name="Tic Tac Toe" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="27" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Field.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Field.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="19" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#Field#0;class#Field#0" expanded="false" />
+                <element signature="method#Field#1;class#Field#0" expanded="false" />
+                <element signature="method#getFieldSize#0;class#Field#0" expanded="false" />
+                <element signature="method#showField#0;class#Field#0" expanded="false" />
+                <element signature="method#eraseField#0;class#Field#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComputerPlayer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ComputerPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="4" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="class#ComplexityLevel#0" expanded="false" />
+                <element signature="method#ComputerPlayer#0;class#ComputerPlayer#0" expanded="false" />
+                <element signature="method#ComputerPlayer#1;class#ComputerPlayer#0" expanded="false" />
+                <element signature="method#setComplexityLevel#0;class#ComputerPlayer#0" expanded="false" />
+                <element signature="method#getComplexityLevel#0;class#ComputerPlayer#0" expanded="false" />
+                <element signature="method#makeTurn#0;class#ComputerPlayer#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HumanPlayer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HumanPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="5" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#HumanPlayer#0;class#HumanPlayer#0" expanded="false" />
+                <element signature="method#HumanPlayer#1;class#HumanPlayer#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.18478261">
+              <folding>
+                <element signature="method#Player#0;class#Player#0" expanded="false" />
+                <element signature="method#Player#1;class#Player#0" expanded="false" />
+                <element signature="method#setName#0;class#Player#0" expanded="false" />
+                <element signature="method#getName#0;class#Player#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#Game#0;class#Game#0" expanded="false" />
+                <element signature="method#checkWin#0;class#Game#0" expanded="false" />
+                <element signature="method#startGame#0;class#Game#0" expanded="false" />
+                <element signature="method#showHistory#0;class#Game#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -108,7 +176,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/Game.java" />
         <option value="$PROJECT_DIR$/src/Field.java" />
+        <option value="$PROJECT_DIR$/src/HumanPlayer.java" />
+        <option value="$PROJECT_DIR$/src/ComputerPlayer.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -145,6 +217,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,13 +246,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,27 +396,27 @@
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="ASM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="ASM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.6712095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.6712095" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -410,6 +482,83 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#HumanPlayer#0;class#HumanPlayer#0" expanded="false" />
+            <element signature="method#HumanPlayer#1;class#HumanPlayer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#Field#0;class#Field#0" expanded="false" />
+            <element signature="method#Field#1;class#Field#0" expanded="false" />
+            <element signature="method#getFieldSize#0;class#Field#0" expanded="false" />
+            <element signature="method#showField#0;class#Field#0" expanded="false" />
+            <element signature="method#eraseField#0;class#Field#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#Game#0;class#Game#0" expanded="false" />
+            <element signature="method#checkWin#0;class#Game#0" expanded="false" />
+            <element signature="method#startGame#0;class#Game#0" expanded="false" />
+            <element signature="method#showHistory#0;class#Game#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="4" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="class#ComplexityLevel#0" expanded="false" />
+            <element signature="method#ComputerPlayer#0;class#ComputerPlayer#0" expanded="false" />
+            <element signature="method#ComputerPlayer#1;class#ComputerPlayer#0" expanded="false" />
+            <element signature="method#setComplexityLevel#0;class#ComputerPlayer#0" expanded="false" />
+            <element signature="method#getComplexityLevel#0;class#ComputerPlayer#0" expanded="false" />
+            <element signature="method#makeTurn#0;class#ComputerPlayer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.18478261">
+          <folding>
+            <element signature="method#Player#0;class#Player#0" expanded="false" />
+            <element signature="method#Player#1;class#Player#0" expanded="false" />
+            <element signature="method#setName#0;class#Player#0" expanded="false" />
+            <element signature="method#getName#0;class#Player#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

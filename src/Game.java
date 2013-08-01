@@ -7,6 +7,7 @@ public class Game
     public Game()
     {
         field = new Field();
+        field.eraseField();
         player1 = new HumanPlayer();
         player2 = new HumanPlayer();
     }
