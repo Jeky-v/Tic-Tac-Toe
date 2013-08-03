@@ -18,6 +18,10 @@ public class Field
     {
         return fieldSize;
     }
+    public char[][] getField()
+    {
+        return field;
+    }
     public void showField()
     {
         System.out.print("  ");
@@ -46,8 +50,23 @@ public class Field
             }
         }
     }
-    public void setTurn()
+    public boolean setTurn(int x, int y, char newCellValue)
     {
-
+        if(x >= 0 && x <= fieldSize - 1 && y >= 0 && y <= fieldSize - 1)
+        {
+            if(field[x][y] == DEFAULT_CELL_VALUE)
+            {
+                field[x][y] = newCellValue;
+                return true;
+            }
+            else
+            {
+                return  false;
+            }
+        }
+        else
+        {
+            return  false;
+        }
     }
 }
