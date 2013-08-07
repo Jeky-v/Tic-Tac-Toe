@@ -1,4 +1,4 @@
-public class Player
+public abstract class Player
 {
     private static final String DEFAULT_NAME = "Player";
     private static final char DEFAULT_GAME_CHAR = 'X';
@@ -33,5 +33,5 @@ public class Player
     {
         return gameChar;
     }
-    public boolean makeStroke(Field field){return false;}
+    public abstract boolean makeStroke(Field field);
 }

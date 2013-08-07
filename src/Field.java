@@ -4,6 +4,7 @@ public class Field
     private static final int DEFAULT_FIELD_SIZE = 3;
     private final char[][] field;
     private final int fieldSize;
+    private Stroke lastStroke;
 
     public Field()
     {
@@ -21,6 +22,10 @@ public class Field
     public char[][] getField()
     {
         return field;
+    }
+    public Stroke getLastStroke()
+    {
+        return lastStroke;
     }
     public void showField()
     {
@@ -50,6 +55,22 @@ public class Field
             }
         }
     }
+    public boolean isAnyEmptyCells()
+    {
+        boolean counter = false;
+        for(int i = 0; i < fieldSize; i++)
+        {
+            for(int j = 0; j < fieldSize; j++)
+            {
+                if(field[i][j] == DEFAULT_CELL_VALUE)
+                {
+                    counter = true;
+                    return counter;
+                }
+            }
+        }
+        return counter;
+    }
     public boolean setTurn(int x, int y, char newCellValue)
     {
         if(x >= 0 && x <= fieldSize - 1 && y >= 0 && y <= fieldSize - 1)
@@ -57,6 +78,7 @@ public class Field
             if(field[x][y] == DEFAULT_CELL_VALUE)
             {
                 field[x][y] = newCellValue;
+                lastStroke = new Stroke(x, y, newCellValue);
                 return true;
             }
             else
@@ -68,5 +90,20 @@ public class Field
         {
             return  false;
         }
+    }
+
+}
+
+class Stroke
+{
+    public int x;
+    public int y;
+    public char gameChar;
+
+    public Stroke(int newX, int newY, char newGameChar)
+    {
+        x = newX;
+        y = newY;
+        gameChar = newGameChar;
     }
 }

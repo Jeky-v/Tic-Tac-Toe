@@ -1,3 +1,5 @@
+import java.util.Random;
+
 enum ComplexityLevel
 {
     EASY,
@@ -26,13 +28,36 @@ public class ComputerPlayer extends Player
     {
         complexityLevel = newComplexityLevel;
     }
-    public ComplexityLevel getComplexityLevel()
-    {
-        return complexityLevel;
-    }
     public boolean makeStroke(Field field)
     {
-        System.out.println("Computer made turn");
+        System.out.print("Computer made turn: ");
+        switch(complexityLevel)
+        {
+            case EASY:
+            {
+                Random rand = new Random();
+                int x = 0,y = 0;
+                boolean run = true;
+                while(run)
+                {
+                    x = rand.nextInt(field.getFieldSize());
+                    y = rand.nextInt(field.getFieldSize());
+                    run = !field.setTurn(x, y, gameChar);
+                }
+                System.out.println(x + " " + y);
+                break;
+            }
+            case MEDIUM:
+            {
+
+                break;
+            }
+            case HARD:
+            {
+
+                break;
+            }
+        }
         return true;
     }
 }

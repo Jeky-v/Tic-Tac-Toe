@@ -31,8 +31,14 @@ public class HumanPlayer extends Player
             {
                 return false;
             }
-            field.setTurn(x, y, gameChar);
-            return true;
+            if(field.setTurn(x, y, gameChar))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
         else
         {
